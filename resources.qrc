@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>123.png</file>
+        <file>Tulips.jpg</file>
+        <file>NewGame.jpg</file>
+        <file>ThinkPlay.jpg</file>
+        <file>UWinCongrats.jpg</file>
+    </qresource>
+</RCC>
